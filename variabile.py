@@ -12,3 +12,14 @@ nr_4 = nr_1**3
 
 print("rezultatul la toata treaba asta este ", nr_4 - nr_3)
 
+nr_5 = nr_4 % nr_3
+
+#daca rezultatul impartirii la 2 cu %, atunci numarul este par
+
+print("nr_5", nr_5)
+nr_6 = nr_4 % 2 == 1
+
+#din moment ce expresia asta e falsa, restul e 1, nr e impar
+print("nr_6", nr_6)
+
+print("nr_6", id(nr_6))
