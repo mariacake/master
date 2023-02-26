@@ -22,3 +22,4 @@ dict1 = {"type": "painting", "color": "red", "feel": "summer", tuple1[0:2:]: tup
 print(dict1.get("feels"))
 
 print(dict1.keys())
+print(dict1.values())
