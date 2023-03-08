@@ -8,14 +8,11 @@ sort_list.reverse()
 print(sort_list)
 
 print(len(sort_list))
-slice_list0 = sort_list[0::2]
-print(slice_list0)
+even_num = sort_list[0::2]
+print(even_num)
 
-slice_list1 = sort_list[1::2]
-print(slice_list1)
+odd_num = sort_list[1::2]
+print(odd_num)
 
-slice_list2 = sort_list[1::3]
-print(slice_list2)
-
-slice_list2 = sort_list[6::2]
-print(slice_list2)
+div_3 = sort_list[1::3]
+print(div_3)
