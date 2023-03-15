@@ -1,3 +1,4 @@
+
 num_list = [7, 8, 9, 2, 3, 1, 4, 10, 5, 6, 0]
 sort_list = sorted(num_list)
 
@@ -16,3 +17,4 @@ print(odd_num)
 
 div_3 = sort_list[1::3]
 print(div_3)
+
