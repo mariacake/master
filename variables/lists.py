@@ -51,3 +51,4 @@ mariatuple = ('a', marialist, 'b')  #putem modifica pentru ca tuplul nu l mai mo
 print(mariatuple)
 marialist.append(18)
 print(mariatuple)
+
