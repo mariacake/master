@@ -18,3 +18,4 @@ print(odd_num)
 div_3 = sort_list[1::3]
 print(div_3)
 
+
